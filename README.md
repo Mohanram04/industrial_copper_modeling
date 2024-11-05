@@ -1,6 +1,5 @@
 # Copper Industry ML Project Overview
 
-https://youtu.be/O8VrJaC5djY?si=1wZNUhhTCF9pec3Z
 
 ## Project Objectives
 
